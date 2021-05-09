@@ -4,7 +4,7 @@
   <img align="left" alt="Praneet's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/praneet-jaiswal-b9524516b/">
+<a href="https://www.dribbble.com/kaname/">
   <img align="left" alt="Praneet's Dribbble" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />
  </a>
  
