@@ -1,7 +1,5 @@
 
-<div align="center">
-<h1 title="hehehe"> Hey 👋, I'm Praneet!</h1>
-</div>
+<h1> Hey There👋 I'm Praneet!</h1>
 <a href="https://www.linkedin.com/in/praneet-jaiswal-b9524516b/">
   <img align="left" alt="Praneet's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
