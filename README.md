@@ -27,16 +27,16 @@
 
 **Full Stack Developer** 🚀 from Pune, Maharashtra India 
 
-  <img align="right" alt="GIF" height="380px" width="500px" src="https://cdn.dribbble.com/users/891352/screenshots/2831763/i-play-with-code.gif" />
+  <img align="right" alt="GIF" height="400rem" width="400rem" src="https://i.ibb.co/g3F0wjt/mirage-pale.png" />
 
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a Full Stack Developer at Cognilements India Pvt. Ltd.
 - 🌱 I love to accel my knowledge in the field of web development and JavaScript is on steriods here ⚡
 - 🤔 My other interests are video-editing 📹, gaming 🎮 and developing some useful and cool stuff 👨‍💻
-- 💼 I’m have a Master's degree in Computer Science from Pune University.
+- 💼 I have a Master's degree in Computer Science from Pune University.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [here](mailto:zamran.butt.1@gmail.com).
+- 📫 Email me [here](mailto:praneetj29@outlook.com).
 - 📝 See my CV [here](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:18737100/) for more.
 
 
