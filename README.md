@@ -35,7 +35,7 @@
 - 💼 I have a Master's degree in Computer Science from Pune University.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me [here](mailto:praneetj29@outlook.com).
-- 📝 See my CV [here](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:18737100/) for more.
+- 📝 See my CV [here](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:21915489/) for more.
 
 
 **Languages and Tools:**  
