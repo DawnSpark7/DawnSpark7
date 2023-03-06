@@ -14,9 +14,8 @@
 <a href="https://www.facebook.com/Zen.wisteria14">
   <img align="left" alt="Praneet's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<img src="https://www.codewars.com/users/Kaname_Kun7/badges/large" align="left">
 <img src="https://komarev.com/ghpvc/?username=DawnSpark7&color=blueviolet" align="left">
-
+<img src="https://www.codewars.com/users/Kaname_Kun7/badges/large" align="left">
 <br />
 <br />
 
