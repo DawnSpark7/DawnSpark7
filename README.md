@@ -16,9 +16,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=DawnSpark7&color=blueviolet" align="left">
 
-
-
-
+<img src="[https://komarev.com/ghpvc/?username=DawnSpark7&color=blueviolet](https://www.codewars.com/users/Kaname_Kun7/badges/large)" align="left">
 
 <br />
 <br />
