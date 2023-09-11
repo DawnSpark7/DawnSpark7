@@ -8,7 +8,7 @@
   <img align="left" alt="Praneet's Dribbble" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />
  </a>
  
-<a href="https://www.instagram.com/codenamekaname/">
+<a href="https://www.instagram.com/tritiyabhaav/">
   <img align="left" alt="Praneet's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/Zen.wisteria14">
