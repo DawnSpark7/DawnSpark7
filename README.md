@@ -25,7 +25,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a ReactJS Developer at Ideaqu Pvt. Ltd.
+- 👨🏽‍💻 I’m currently working as a Lead at Davis Index Pvt. Ltd.
 - 🌱 I love to accel my knowledge in the field of web development and JavaScript is on steriods here ⚡
 - 🤔 My other interests are video-editing 📹, gaming 🎮 and developing some useful and cool stuff 👨‍💻
 - 💼 I have a Master's degree in Computer Science from Pune University.
