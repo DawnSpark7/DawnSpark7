@@ -20,8 +20,7 @@
 <br />
 
 **Full Stack Developer** 🚀 from Pune, Maharashtra India 
-
-  <img align="right" alt="GIF" height="400rem" width="400rem" src="https://i.ibb.co/g3F0wjt/mirage-pale.png" />
+<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
 
 **About Me!**
 
