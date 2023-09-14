@@ -20,7 +20,6 @@
 <br />
 
 **Full Stack Developer** 🚀 from Pune, Maharashtra India 
-<img src="https://giphy.com/embed/26tn33aiTi1jkl6H6" align="right">
 
 **About Me!**
 
